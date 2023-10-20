@@ -1,6 +1,5 @@
-<a href="https://omerozcan-hub.github.io/The-Galaxy-Traveler/" >
-  <h2 align="center">Click and play</h2>
-</a>
+<h3 align="center">[click and play](https://omerozcan-hub.github.io/The-Galaxy-Traveler/)</h3>
+
 <div align="center">
   <img alt="start screen" src="https://r.resimlink.com/ixp-fO.png"/>
   <img alt="level1" src="https://r.resimlink.com/uICFZkirRLyT.png"/>
