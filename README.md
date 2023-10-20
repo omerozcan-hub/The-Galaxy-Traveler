@@ -1,4 +1,4 @@
-<a href="https://omerozcan-hub.github.io/The-Galaxy-Traveler" >
+<a href="https://omerozcan-hub.github.io/The-Galaxy-Traveler/" >
   <h2 align="center">Click and play</h2>
 </a>
 <div align="center">
